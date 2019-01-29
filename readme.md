@@ -1,1 +1,0 @@
-Un programa simple para calcular la sucesion de fibonacci
